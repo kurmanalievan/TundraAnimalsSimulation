@@ -1,0 +1,8 @@
+3 4
+lem1 l 250
+lem2 l 300
+hare1 h 110
+go g 100
+hungry w 10
+feathery o 10
+feather o 15
